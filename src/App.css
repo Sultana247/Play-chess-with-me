@@ -9,3 +9,7 @@
   
   font-style: normal;
 }
+
+th, td{
+  padding: 10px;
+}
