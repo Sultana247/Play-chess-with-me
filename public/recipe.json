@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80",
+    "recipe_id": 1,
+    "recipe_name": "Chicken Teriyaki",
+    "short_description": "A flavorful Japanese dish with tender chicken glazed in a sweet soy-based sauce.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "80 g brown sugar",
+      "40 g ginger paste",
+      "20 g sesame seeds"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_image": "https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2016/05/pepper-delight-beef-curry-3.jpg?resize=4640%2C3440",
+    "recipe_id": 2,
+    "recipe_name": "Beef Curry",
+    "short_description": "A spicy and rich curry made with slow-cooked beef and aromatic spices.",
+    "ingredients": [
+      "600 g beef",
+      "150 g onion",
+      "100 g tomato puree",
+      "50 g curry powder",
+      "20 g ginger garlic paste"
+    ],
+    "preparing_time": "45 min",
+    "calories": "480 calories"
+  },
+  {
+    "recipe_image": "https://www.thecookierookie.com/wp-content/uploads/2023/02/featured-chicken-alfredo-recipe-500x500.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Creamy Alfredo Pasta",
+    "short_description": "Classic Italian pasta tossed in a rich and creamy Alfredo sauce.",
+    "ingredients": [
+      "300 g fettuccine",
+      "200 ml heavy cream",
+      "80 g parmesan cheese",
+      "40 g butter",
+      "10 g black pepper"
+    ],
+    "preparing_time": "25 min",
+    "calories": "410 calories"
+  },
+  {
+    "recipe_image": "http://countryrecipebook.com/wp-content/uploads/2022/02/20220218_182542-300x300.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Fresh Veggie Salad",
+    "short_description": "A refreshing salad loaded with seasonal vegetables and light dressing.",
+    "ingredients": [
+      "150 g lettuce",
+      "80 g cherry tomatoes",
+      "60 g cucumber",
+      "30 g olives",
+      "20 ml lemon dressing"
+    ],
+    "preparing_time": "10 min",
+    "calories": "150 calories"
+  },
+  {
+    "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
+    "recipe_id": 5,
+    "recipe_name": "Butter Chicken",
+    "short_description": "Creamy and mildly spiced Indian chicken curry cooked in tomato gravy.",
+    "ingredients": [
+      "500 g chicken breast",
+      "200 g tomato puree",
+      "150 ml cream",
+      "50 g butter",
+      "20 g garam masala"
+    ],
+    "preparing_time": "40 min",
+    "calories": "520 calories"
+  },
+  {
+    "recipe_image": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?auto=format&fit=crop&w=800&q=80",
+    "recipe_id": 6,
+    "recipe_name": "Basil Mushroom Stir Fry",
+    "short_description": "Quick stir fry of mushrooms tossed with garlic and fresh basil leaves.",
+    "ingredients": [
+      "400 g mushroom",
+      "200 g basil leaf",
+      "30 g garlic",
+      "20 ml soy sauce",
+      "10 g chili flakes"
+    ],
+    "preparing_time": "20 min",
+    "calories": "210 calories"
+  }
+]
